@@ -46,7 +46,6 @@ public class PessoaResource {
             pessoa.fone_cel2 = "-";
             pessoa.fone_trabalho = "-";
             pessoa.observacao = "-";
-            pessoa.fone_res = "batata";
 
             System.out.println(pessoa.toString()); //mostra propriedades do objeto pesso ano terminal (pode ser útil para depuração)
             
